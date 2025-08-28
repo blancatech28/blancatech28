@@ -85,7 +85,7 @@ A Python + Linux CLI project that organizes files into folders based on type (im
 
 - 📧 Email: [ebenezergyimah52@gmail.com](mailto:ebenezergyimah52@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ebenezer-gyimah](https://linkedin.com/in/ebenezer-gyimah)  
-- 🐙 GitHub: [github.com/blankatech28](https://github.com/blankatech28)  
+- 🐙 GitHub: [github.com/blankatech28](https://github.com/blancatech28)  
 
 ---
 
