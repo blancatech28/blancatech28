@@ -6,7 +6,13 @@
 I’m a dedicated **Backend Developer in Training** with a background in Laboratory Technology and entrepreneurial experience.  
 What drives me in tech is **impact and problem solving** — I love creating systems that address real-world challenges.  
 
-🌱 I’m currently enrolled in the **ALX Backend Development Program**, where I’m learning Python, Django, REST APIs, SQL, and Linux CLI skills.  
+🌱 I’m currently enrolled in the **ALX Backend Development Program**, where I’m learning Currently, I am learning and building skills in:  
+- 🐍 **Python & Django Framework** for backend development  
+- 🌐 **REST APIs** for modern web communication  
+- 🗄️ **SQL & Databases** for data storage and management  
+- 💻 **Linux CLI** for efficiency and system navigation  
+- 🔧 **Git & GitHub** for version control and collaboration
+  
 My ultimate goal is to grow into a **DevOps Engineer**, combining backend expertise with infrastructure automation.  
 
 ---
